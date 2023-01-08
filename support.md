@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 技术支持 
+title: 遗书
 ---
 
-剧本暂无
+未到时间，剧本暂无
 
 {% include comments.html %}
 

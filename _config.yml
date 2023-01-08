@@ -28,27 +28,6 @@ social:
     mail: hotokokoa233@outlook.com
 
 
-# 百度统计 
-# 使用博客模板请去掉或者更换 id 
-baidu:
-    id: 
-
-# Google Analytics
-# 使用博客模板请去掉或者更换 id
-ga:
-    id: 
-    host: auto  
-
-
-# 《----------------- 上面的信息修改成你自己的 ---------------------------》
-#
-#
-#  _post/ 下的文章更换成你自己的文章
-#  帮忙star一下，感谢~😆 地址： https://github.com/leopardpan/leopardpan.github.io
-#
-#
-# 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
-
 
 permalink: /:year/:month/:title/
 # Format
@@ -67,7 +46,7 @@ blog_button:
 nav:
     - {title: 所有文章, description: archive, url: '/archive'}   
 #   - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 技术支持, description: support, url: '/support'}      
+    - {title: 遗书, description: support, url: '/support'}      
     - {title: 关于我, description: about, url: '/about'}   
     
 
