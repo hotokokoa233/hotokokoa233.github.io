@@ -22,10 +22,10 @@ import { LinkPreset } from "./types/config";
 const SITE_LANG = "zh_CN"; // 语言代码，例如：'en', 'zh_CN', 'ja' 等。
 const SITE_TIMEZONE = 8; //设置你的网站时区 from -12 to 12 default in UTC+8
 export const siteConfig: SiteConfig = {
-	title: "绘梨花",
-	subtitle: "绘梨花的小世界",
-	siteURL: "https://hotokokoa233.github.io/", // 请替换为你的站点URL，以斜杠结尾
-	siteStartDate: "2026.06.06", // 站点开始运行日期，用于站点统计组件计算运行天数
+	title: " 绘梨花",
+	subtitle: " 绘梨花的博客",
+	siteURL: "https://mikufans.yuzhiyuan.top/", // 请替换为你的站点URL，以斜杠结尾
+	siteStartDate: "2025-11-04", // 站点开始运行日期，用于站点统计组件计算运行天数
 
 	timeZone: SITE_TIMEZONE,
 
@@ -289,7 +289,7 @@ export const navBarConfig: NavBarConfig = {
 				},
 				{
 					name: "网易云音乐",
-					url: "https://music.163.com/#/user/home?id=14239592",
+					url: "https://music.163.com/",
 					external: true,
 					icon: "material-symbols:library-music-rounded",
 				},
@@ -367,7 +367,7 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/avatar.webp", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
-	name: "绘梨花",
+	name: " 绘梨花",
 	bio: "时光流转，愿有一天你能和你最重要的人重逢",
 	typewriter: {
 		enable: true, // 启用个人简介打字机效果
@@ -455,7 +455,7 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 	enable: true, // 启用音乐播放器功能
 	mode: "meting", // 音乐播放器模式，可选 "local" 或 "meting"
 	meting_api:
-		"https://www.bilibili.uno/api?server=:server&type=:type&id=:id&auth=:auth&r=:r", // Meting API 地址
+		"https://meting.mysqil.com/api?server=:server&type=:type&id=:id&auth=:auth&r=:r", // Meting API 地址
 	id: "77115025", // 歌单ID
 	server: "netease", // 音乐源服务器。有的meting的api源支持更多平台,一般来说,netease=网易云音乐, tencent=QQ音乐, kugou=酷狗音乐, xiami=虾米音乐, baidu=百度音乐
 	type: "playlist", // 播单类型
@@ -617,7 +617,7 @@ export const pioConfig: import("./types/config").PioConfig = {
 	mode: "draggable", // 默认为可拖拽模式
 	hiddenOnMobile: true, // 默认在移动设备上隐藏
 	dialog: {
-		welcome: "欢迎来到绘梨花的小世界！", // 欢迎词
+		welcome: "欢迎来到 绘梨花的博客！", // 欢迎词
 		touch: [
 			"你在干什么？",
 			"再摸我就报警了！",
