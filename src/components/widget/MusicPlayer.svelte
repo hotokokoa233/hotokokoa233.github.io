@@ -79,18 +79,18 @@ let volumeBar: HTMLElement;
 const localPlaylist = [
 	{
 		id: 1,
-		title: "ひとり上手",
-		artist: "Kaya",
+		title: "ponponpon",
+		artist: "未知",
 		cover: "assets/music/cover/hitori.jpg",
-		url: "assets/music/url/hitori.mp3",
+		url: "assets/music/url/ponponpon.mp3",
 		duration: 240,
 	},
 	{
 		id: 2,
-		title: "眩耀夜行",
+		title: "宝贝，不知道为什么",
 		artist: "スリーズブーケ",
 		cover: "assets/music/cover/xryx.jpg",
-		url: "assets/music/url/xryx.mp3",
+		url: "assets/music/url/宝贝，不知道为什么.mp3",
 		duration: 180,
 	},
 	{
