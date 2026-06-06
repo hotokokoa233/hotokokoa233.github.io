@@ -18,11 +18,11 @@ export type DeviceCategory = {
 export const devicesData: DeviceCategory = {
 	手机: [
 		{
-			name: "IQOO NEO 9",
+			name: "Redmi K60 Ultra",
 			image: "/images/device/IQOO NEO9.jpg",
-			specs: "红白魂 / 16G + 256GB",
-			description: "iQOO于2023年12月发布的智能手机",
-			link: "https://www.vivo.com/vivo/iqooneo9/",
+			specs: "伊雷娜 / 16G + 512GB",
+			description: "最后一代miui",
+			link: "https://www.mi.com/redmi-k60ultra/",
 		},
 	],
 	路由器: [
@@ -37,12 +37,12 @@ export const devicesData: DeviceCategory = {
 	],
 	电脑: [
 		{
-			name: "机械革命旷世X",
+			name: "联想拯救者",
 			image: "/images/device/机械革命.jpg",
-			specs: "i7  14650hx / RTX5060",
+			specs: "i5  8300H / RTX1050ti",
 			description:
-				"机革毛病挺多的，谨慎选择",
-			link: "https://www.mechrevo.com/",
+				"还能打",
+			link: "https://item.lenovo.com.cn/product/1040396.html/",
 		},
 	],
 };

@@ -28,22 +28,6 @@ export const friendsData: FriendItem[] = [
 		siteurl: "https://docs.mizuki.mysqil.com",
 		tags: ["Docs"],
 	},
-	{
-		id: 3,
-		title: "Jeet-PR",
-		imgurl: "https://jeet-pr.github.io/avatar/avatar.webp",
-		desc: "高中同学博客",
-		siteurl: "https://blog.20090917.xyz/",
-		tags: ["个人博客", "技术"],
-	},
-	{
-		id: 4,
-		title: "玉与遇",
-		imgurl: "https://avatars.githubusercontent.com/u/242206735?v=4&s=640",
-		desc: "高中同学博客",
-		siteurl: "https://blog.yuyuyu0721.top/",
-		tags: ["个人博客", "技术"],
-	},
 ];
 
 // 获取所有友情链接数据
