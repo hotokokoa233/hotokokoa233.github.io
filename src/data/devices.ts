@@ -19,7 +19,7 @@ export const devicesData: DeviceCategory = {
 	手机: [
 		{
 			name: "Redmi K60 Ultra",
-			image: "/images/device/IQOO NEO9.jpg",
+			image: "/images/device/k60  u.webp",
 			specs: "伊雷娜 / 16G + 512GB",
 			description: "最后一代miui",
 			link: "https://www.mi.com/redmi-k60ultra/",
@@ -38,7 +38,7 @@ export const devicesData: DeviceCategory = {
 	电脑: [
 		{
 			name: "联想拯救者",
-			image: "/images/device/机械革命.jpg",
+			image: "/images/device/拯救者.jpg",
 			specs: "i5  8300H / RTX1050ti",
 			description:
 				"还能打",
