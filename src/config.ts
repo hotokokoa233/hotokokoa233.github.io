@@ -380,9 +380,9 @@ export const profileConfig: ProfileConfig = {
 			url: "https://space.bilibili.com/289969440",
 		},
 		{
-			name: "GitHub",
+			name: "blog",
 			icon: "fa6-brands:github",
-			url: "https://github.com/hotokokoa233",
+			url: "https://sanye.kokoa.qzz.io/",
 		},
 	],
 };

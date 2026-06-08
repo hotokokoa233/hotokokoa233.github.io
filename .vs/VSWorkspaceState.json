@@ -3,7 +3,6 @@
     "",
     "\\public",
     "\\public\\images",
-    "\\public\\images\\device",
     "\\public\\images\\diary",
     "\\src",
     "\\src\\content",
@@ -12,6 +11,6 @@
     "\\src\\content\\spec",
     "\\src\\data"
   ],
-  "SelectedNode": "\\src\\content\\posts\\mc联机.md",
+  "SelectedNode": "\\src\\content\\spec\\about.md",
   "PreviewInSolutionExplorer": false
 }
